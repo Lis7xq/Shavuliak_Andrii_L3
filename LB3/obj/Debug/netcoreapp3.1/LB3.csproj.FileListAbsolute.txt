@@ -1,0 +1,14 @@
+C:\Users\Benito\source\repos\LB3\LB3\bin\Debug\netcoreapp3.1\LB3.exe
+C:\Users\Benito\source\repos\LB3\LB3\bin\Debug\netcoreapp3.1\LB3.deps.json
+C:\Users\Benito\source\repos\LB3\LB3\bin\Debug\netcoreapp3.1\LB3.runtimeconfig.json
+C:\Users\Benito\source\repos\LB3\LB3\bin\Debug\netcoreapp3.1\LB3.runtimeconfig.dev.json
+C:\Users\Benito\source\repos\LB3\LB3\bin\Debug\netcoreapp3.1\LB3.dll
+C:\Users\Benito\source\repos\LB3\LB3\bin\Debug\netcoreapp3.1\LB3.pdb
+C:\Users\Benito\source\repos\LB3\LB3\obj\Debug\netcoreapp3.1\LB3.csproj.AssemblyReference.cache
+C:\Users\Benito\source\repos\LB3\LB3\obj\Debug\netcoreapp3.1\LB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benito\source\repos\LB3\LB3\obj\Debug\netcoreapp3.1\LB3.AssemblyInfoInputs.cache
+C:\Users\Benito\source\repos\LB3\LB3\obj\Debug\netcoreapp3.1\LB3.AssemblyInfo.cs
+C:\Users\Benito\source\repos\LB3\LB3\obj\Debug\netcoreapp3.1\LB3.csproj.CoreCompileInputs.cache
+C:\Users\Benito\source\repos\LB3\LB3\obj\Debug\netcoreapp3.1\LB3.dll
+C:\Users\Benito\source\repos\LB3\LB3\obj\Debug\netcoreapp3.1\LB3.pdb
+C:\Users\Benito\source\repos\LB3\LB3\obj\Debug\netcoreapp3.1\LB3.genruntimeconfig.cache
